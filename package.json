@@ -1,7 +1,7 @@
 {
-  "name": "text-e2d2h",
-  "version": "0.0.0",
-  "description": "",
+  "name": "e2d2h",
+  "version": "1.0.0",
+  "description": "E2D2H(Encrypt Encode Decrypt Decode and Hash)",
   "scripts": {
     "start": "vite",
     "dev": "vite",
